@@ -1,0 +1,8 @@
+Pilih versi corel sesuai jasa cetak akrilik pakai
+
+Motor : Motor DC Printer 60002(copotan dari printer HP kalau gak salah tipe 3535/3420)
+Gir : Gir 12 buat yang di pasang di motor atau gir 9(beli di toko tamiya)
+Ban : Ban busa beli di toko tamiya
+Kasih kapasitor di kedua terminal motor biar menurunkan noise
+Besi buat as roda diameter 2mm panjang 18 atau lebih(bisa dipotong)
+Empat bearing/laher ukurannya satu tingkat di atas yang paling kecil buat tamiya(gak tau istilah ukurannya)
